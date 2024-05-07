@@ -9,7 +9,7 @@ PYNQ build for Redpitaya-16-122 SDR. Supported MIO peripherals:
 
 ## Ready-to-use downloads, links and base design
 
-* [Pynq-Redpitaya-122-16-3.0.1.img]()
+* [Pynq-Redpitaya-122-16-3.0.1.img](https://drive.google.com/file/d/1FRBuiVpsPuNX_VUG6QEje95CzBRwenE0/view?usp=sharing)
 * [Instructions on writing the SD card image](https://pynq.readthedocs.io/en/v2.6.1/appendix.html#writing-the-sd-card-image)
 * [Getting started with PYNQ](https://pynq.readthedocs.io/en/v3.0.0/getting_started.html)
 * [Vivado Redpitaya-122-16 board files](https://github.com/dspsandbox/Pynq-Redpitaya-122/tree/master/Vivado/board_files)
